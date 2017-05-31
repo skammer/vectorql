@@ -7,7 +7,7 @@ Generate Graphql query object thing using valid Clojure hiccup-like syntax.
 Add to `project.clj`:
 
 ```clj
-[vectorql "0.1.0"]
+[vectorql "0.1.0-SNAPSHOT"]
 ```
 
 ## Usage
